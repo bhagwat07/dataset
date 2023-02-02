@@ -1,7 +1,7 @@
-# addition program
+# info
 
-a = 2
-b = 12
-c = a+ b
+name = "Bhagwat"
+job = 'Data Enginner'
+salary = 50000
 
-print(c)
+print('my name is {} I am {}.my salary is {}'.format(name,job,salary))
