@@ -1,4 +1,4 @@
-
+#Reading a csv file using pyspark
 
 from pyspark.sql import *
 from pyspark.sql.functions import *
